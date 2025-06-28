@@ -1,1 +1,1 @@
-This is the design of a networked process monitoring system for group A11.
+This is the final design of the course "Networked Process Monitoring System Design", which includes DIAView engineering, Node-Red engineering, fuzzy PID control source code implemented by MATLAB, and Siemens S7-1200 source code.
